@@ -1,0 +1,1253 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GoCargo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-31 04:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: framework/template-tags.php:328
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: functions.php:464
+msgid "Add background color."
+msgstr ""
+
+#: functions.php:401
+msgid ""
+"Add parallax type background for row (Note: If no image is specified, "
+"parallax will use background image from Design Options)."
+msgstr ""
+
+#: framework/sample-config.php:883
+msgid "Add text to display on bottom footer."
+msgstr ""
+
+#: framework/sample-config.php:370
+msgid "Add topbar info html text."
+msgstr ""
+
+#: framework/sample-config.php:127
+msgid "Add your google map api key."
+msgstr ""
+
+#: framework/sample-config.php:854
+msgid "Add your social extend"
+msgstr ""
+
+#: framework/sample-config.php:855
+msgid ""
+"Add your social html code here, if your social network not have on list "
+"social above."
+msgstr ""
+
+#: framework/sample-config.php:964 framework/sample-config.php:988
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: functions.php:513
+msgid "Animate Column"
+msgstr ""
+
+#: functions.php:528
+msgid "Animate delay number."
+msgstr ""
+
+#: functions.php:537
+msgid "Animate duration number."
+msgstr ""
+
+#: framework/sample-config.php:119
+msgid "Animation?"
+msgstr ""
+
+#: functions.php:116
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: framework/sample-config.php:704 framework/sample-config.php:706
+msgid "Archive Service Page Title"
+msgstr ""
+
+#: framework/meta-boxes.php:52
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:46
+msgid "Author"
+msgstr ""
+
+#: 404.php:40
+msgid "Back To Home"
+msgstr ""
+
+#: functions.php:461
+msgid "Background color"
+msgstr ""
+
+#: framework/sample-config.php:687
+msgid "Background Subheader All Blog Pages"
+msgstr ""
+
+#: framework/sample-config.php:784
+msgid "Behance Url"
+msgstr ""
+
+#: framework/sample-config.php:678 framework/sample-config.php:680
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:643
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/sample-config.php:638
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-config.php:666
+msgid "Blog Style"
+msgstr ""
+
+#: framework/sample-config.php:1026
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-config.php:714
+msgid "Button Text use on Archive Service Page only"
+msgstr ""
+
+#: framework/sample-config.php:644
+msgid "Click on image layout to choose"
+msgstr ""
+
+#: functions.php:475
+msgid "Columns image"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/widget/contact-info.php:54
+msgid "Contact Us"
+msgstr ""
+
+#: framework/widget/contact-info.php:65
+msgid "Content:"
+msgstr ""
+
+#: framework/sample-config.php:882
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/sample-config.php:1044
+msgid "CSS Code"
+msgstr ""
+
+#: framework/widget/contact-info.php:18
+msgid "Custom Contact Info Box on Footer Widget"
+msgstr ""
+
+#: framework/sample-config.php:415
+msgid "Customize Header Homepage On?"
+msgstr ""
+
+#: framework/sample-config.php:473
+msgid "Customize Subheader On?"
+msgstr ""
+
+#: functions.php:478 functions.php:498
+msgid "Default"
+msgstr ""
+
+#: framework/sample-config.php:343
+msgid "Default: show social box."
+msgstr ""
+
+#: framework/widget/recent-post.php:80
+msgid "Display post date?"
+msgstr ""
+
+#: framework/sample-config.php:777
+msgid "Dribbble Url"
+msgstr ""
+
+#: comments.php:53
+msgid "Email"
+msgstr ""
+
+#: framework/sample-config.php:847
+msgid "Email Address"
+msgstr ""
+
+#: functions.php:426
+msgid "Enter parallax speed ratio (Note: Default value is .5, min value is .5)"
+msgstr ""
+
+#: functions.php:531 functions.php:540
+msgid "Example : 0.2, 0.6, 1, etc"
+msgstr ""
+
+#: functions.php:546
+msgid "Extra inner column class name"
+msgstr ""
+
+#: framework/sample-config.php:735
+msgid "Facebook Url"
+msgstr ""
+
+#: functions.php:519
+msgid "Fade In"
+msgstr ""
+
+#: functions.php:518
+msgid "Fade In Down"
+msgstr ""
+
+#: functions.php:520
+msgid "Fade In Left"
+msgstr ""
+
+#: functions.php:521
+msgid "Fade In Right"
+msgstr ""
+
+#: functions.php:517
+msgid "Fade In Up"
+msgstr ""
+
+#: framework/sample-config.php:251
+msgid "Favicon"
+msgstr ""
+
+#: framework/sample-config.php:915
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/sample-config.php:933
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: framework/sample-config.php:924
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Eight Widget Area"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer Five Widget Area"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: framework/sample-config.php:863
+msgid "Footer Settings"
+msgstr ""
+
+#: functions.php:183
+msgid "Footer Seven Widget Area"
+msgstr ""
+
+#: functions.php:173
+msgid "Footer Six Widget Area"
+msgstr ""
+
+#: framework/sample-config.php:943
+msgid "Footer Spacing"
+msgstr ""
+
+#: framework/sample-config.php:890
+msgid "Footer Styling"
+msgstr ""
+
+#: framework/sample-config.php:906
+msgid "Footer Text Color"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: framework/sample-config.php:897
+msgid "Footer Title Widget Color"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: framework/sample-config.php:868
+msgid "Footer Widget Area Off?"
+msgstr ""
+
+#: functions.php:125 functions.php:135 functions.php:145 functions.php:155
+#: functions.php:165 functions.php:175 functions.php:185 functions.php:195
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: framework/sample-config.php:264
+msgid "For first look on website and support image file with format png, jpg."
+msgstr ""
+
+#: framework/meta-boxes.php:18
+msgid "Format Details"
+msgstr ""
+
+#: functions.php:389
+msgid "Full height row?"
+msgstr ""
+
+#: framework/meta-boxes.php:32
+msgid "Gallery"
+msgstr ""
+
+#: framework/sample-config.php:756
+msgid "Github Url"
+msgstr ""
+
+#. Name of the theme
+msgid "GoCargo"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/contact-info.php:15
+msgid "Gocargo Contact Info"
+msgstr ""
+
+#: framework/widget/recent-post.php:11
+msgid "Gocargo Recent Posts"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/testimonials-widget.php:15
+msgid "Gocargo Testimonials Carousel"
+msgstr ""
+
+#: framework/sample-config.php:126
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/sample-config.php:749
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/sample-config.php:408
+msgid "Header Homepage"
+msgstr ""
+
+#: framework/sample-config.php:335
+msgid "Header layout 1"
+msgstr ""
+
+#: framework/sample-config.php:355
+msgid "Header layout 2"
+msgstr ""
+
+#: framework/sample-config.php:376
+msgid "Header Mobile"
+msgstr ""
+
+#: framework/sample-config.php:391
+msgid "Header mobile background color"
+msgstr ""
+
+#: framework/sample-config.php:399
+msgid "Header mobile border menu item color"
+msgstr ""
+
+#: framework/sample-config.php:383
+msgid "Header mobile menu color"
+msgstr ""
+
+#: framework/sample-config.php:342
+msgid "Header option"
+msgstr ""
+
+#: framework/sample-config.php:311
+msgid "Header Scroll Background Color"
+msgstr ""
+
+#: framework/sample-config.php:446
+msgid "Header scroll background color"
+msgstr ""
+
+#: framework/sample-config.php:438
+msgid "Header scroll menu color"
+msgstr ""
+
+#: framework/sample-config.php:327
+msgid "Header Scroll Text Color"
+msgstr ""
+
+#: framework/sample-config.php:281
+msgid "Header Settings"
+msgstr ""
+
+#: framework/sample-config.php:303
+msgid "Header Static Background Color"
+msgstr ""
+
+#: framework/sample-config.php:430
+msgid "Header static background color"
+msgstr ""
+
+#: framework/sample-config.php:422
+msgid "Header static menu color"
+msgstr ""
+
+#: framework/sample-config.php:319
+msgid "Header Static Text Color"
+msgstr ""
+
+#: framework/sample-config.php:504
+msgid "Heading 1"
+msgstr ""
+
+#: framework/sample-config.php:523
+msgid "Heading 2"
+msgstr ""
+
+#: framework/sample-config.php:542
+msgid "Heading 3"
+msgstr ""
+
+#: framework/sample-config.php:561
+msgid "Heading 4"
+msgstr ""
+
+#: framework/sample-config.php:580
+msgid "Heading 5"
+msgstr ""
+
+#: framework/sample-config.php:599
+msgid "Heading 6"
+msgstr ""
+
+#: framework/template-tags.php:127
+msgid "Home"
+msgstr ""
+
+#: framework/sample-config.php:856
+msgid ""
+"HTML code: <li><a target=\"_blank\" href=\"#\"><i class=\"fa fa-facebook\">"
+"</i></a></li> , find more icons: http://fontawesome.io/icons/#brand"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.vegatheme.com/gocargomate/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#: framework/widget/contact-info.php:69
+msgid "Icon class name:"
+msgstr ""
+
+#: framework/sample-config.php:201
+msgid "Icon Loading Preload"
+msgstr ""
+
+#: functions.php:391
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: functions.php:439
+msgid "If checked, then start setup image on half row."
+msgstr ""
+
+#: framework/sample-config.php:869
+msgid ""
+"If you do not want to display the widget area on the main footer, just turn "
+"it off."
+msgstr ""
+
+#: framework/sample-config.php:120
+msgid ""
+"If you do not want to use animated effects elements when scroll page down "
+"for both mobile and desktop, just turn it off."
+msgstr ""
+
+#: framework/sample-config.php:141
+msgid "If you do not want to use preload, you can turn it off."
+msgstr ""
+
+#: framework/sample-config.php:416
+msgid ""
+"If you want to customize the header for just the home page, just turn it on"
+msgstr ""
+
+#: framework/sample-config.php:474
+msgid "If you want to customize the subheader for all pages, just turn it on."
+msgstr ""
+
+#: framework/sample-config.php:363
+msgid "If you want to use the topbar on the header, just turn it on."
+msgstr ""
+
+#: framework/sample-config.php:876
+msgid ""
+"If you want your footer to get sticky every time you scroll page up or down, "
+"just turn it on."
+msgstr ""
+
+#: functions.php:409 functions.php:447 framework/meta-boxes.php:25
+msgid "Image"
+msgstr ""
+
+#: functions.php:479
+msgid "Image on 4 Columns"
+msgstr ""
+
+#: functions.php:480
+msgid "Image on 5 Columns"
+msgstr ""
+
+#: functions.php:481
+msgid "Image on 6 Columns"
+msgstr ""
+
+#: functions.php:482
+msgid "Image on 7 Columns"
+msgstr ""
+
+#: functions.php:499
+msgid "Image on Left Row"
+msgstr ""
+
+#: functions.php:500
+msgid "Image on Right Row"
+msgstr ""
+
+#: functions.php:495
+msgid "Image position"
+msgstr ""
+
+#: framework/sample-config.php:679
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:237
+msgid "Input logo height, default: 32"
+msgstr ""
+
+#: framework/sample-config.php:230
+msgid "Input logo width, default: 143"
+msgstr ""
+
+#: framework/sample-config.php:791
+msgid "Instagram Url"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Introducing GoCargo the best premium website template for Freight, Logistics "
+"&amp; Transportation. GoCargo is easy to use, it provides everything you "
+"need to create great looking website. With GoCargo you can impress your "
+"customer by it’s professional design and the interactivity. GoCargo built "
+"with latest website technology to ensure your website is looks nice on "
+"desktop and mobile. Get GoCargo now!"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: framework/sample-config.php:833
+msgid "lastfm Url"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:220
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/sample-config.php:721
+msgid "Leave a blank will be default: 8 items per page."
+msgstr ""
+
+#: framework/sample-config.php:705
+msgid "Leave a blank will be use the_archive_title() to instead."
+msgstr ""
+
+#: framework/sample-config.php:713
+msgid "Leave a blank will be use translate text from language file."
+msgstr ""
+
+#: framework/sample-config.php:770
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/sample-config.php:193
+msgid "Loading Style"
+msgstr ""
+
+#: framework/sample-config.php:245
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-config.php:236
+msgid "Logo height (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:219
+msgid "Logo Preload (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:271
+msgid "Logo Scroll"
+msgstr ""
+
+#: framework/sample-config.php:261
+msgid "Logo Static"
+msgstr ""
+
+#: framework/sample-config.php:211
+msgid "Logo Style"
+msgstr ""
+
+#: framework/sample-config.php:274
+msgid "Logo when scroll down page and support image file with format png, jpg."
+msgstr ""
+
+#: framework/sample-config.php:229
+msgid "Logo width (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:618
+msgid "Menu item"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:238
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:56
+msgid "Message"
+msgstr ""
+
+#: framework/sample-config.php:114
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:226
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:52
+msgid "Name"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: framework/template-tags.php:285
+msgid "Next"
+msgstr ""
+
+#: functions.php:379
+msgid "No"
+msgstr ""
+
+#: functions.php:516
+msgid "None"
+msgstr ""
+
+#: search.php:71
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/sample-config.php:176
+msgid "Number 100% running"
+msgstr ""
+
+#: framework/sample-config.php:720
+msgid "Number items per page"
+msgstr ""
+
+#: framework/widget/recent-post.php:76
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget/testimonials-widget.php:98
+msgid "Number:"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:214
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/sample-config.php:987
+msgid "Padding Footer Bottom"
+msgstr ""
+
+#: framework/sample-config.php:963
+msgid "Padding Main Footer"
+msgstr ""
+
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:46
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: framework/meta-boxes.php:74
+msgid "Page Settings"
+msgstr ""
+
+#: functions.php:399
+msgid "Parallax background for row?"
+msgstr ""
+
+#: functions.php:423
+msgid "Parallax speed"
+msgstr ""
+
+#: framework/sample-config.php:1045
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/sample-config.php:916
+msgid "Pick the Footer Background color for the theme (default: #101314)."
+msgstr ""
+
+#: framework/sample-config.php:934
+msgid "Pick the Footer Bottom Background color for the theme."
+msgstr ""
+
+#: framework/sample-config.php:925
+msgid "Pick the Footer Bottom text color for the theme."
+msgstr ""
+
+#: framework/sample-config.php:907
+msgid "Pick the Footer Text color for the theme (default: #cccccc)."
+msgstr ""
+
+#: framework/sample-config.php:392
+msgid "Pick the header mobile background color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:400
+msgid ""
+"Pick the header mobile border menu item color for the theme (default: #eee)."
+msgstr ""
+
+#: framework/sample-config.php:384
+msgid "Pick the header mobile color for the theme (default: #555)."
+msgstr ""
+
+#: framework/sample-config.php:447
+msgid "Pick the header scroll background color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:312
+msgid ""
+"Pick the header scroll background color for the theme (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:439
+msgid "Pick the header scroll color for the theme (default: #555)."
+msgstr ""
+
+#: framework/sample-config.php:431
+msgid "Pick the header static background color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:304
+msgid ""
+"Pick the header static background color for the theme (default: rgba(0,0,0,0."
+"5))."
+msgstr ""
+
+#: framework/sample-config.php:423
+msgid "Pick the header static color for the theme (default: #555)."
+msgstr ""
+
+#: framework/sample-config.php:320 framework/sample-config.php:328
+msgid "Pick the header text color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:1018
+msgid "Pick the main color for the theme (default: #d03232)."
+msgstr ""
+
+#: framework/sample-config.php:167
+msgid "Pick the preload background color (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:160
+msgid "Pick the preload text color (default: #111111)."
+msgstr ""
+
+#: framework/sample-config.php:481
+msgid "Pick the subheader background color for the theme, default: #f8f8f8 "
+msgstr ""
+
+#: framework/sample-config.php:489
+msgid "Pick the subheader text color for the theme (default: #222)."
+msgstr ""
+
+#: framework/sample-config.php:898
+msgid "Pick the title widget area color for the theme (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:805
+msgid "pinterest Url"
+msgstr ""
+
+#: comments.php:50
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:57
+msgid "Post a comment"
+msgstr ""
+
+#: framework/template-tags.php:57
+#, php-format
+msgctxt "post author"
+msgid "By: %s"
+msgstr ""
+
+#: framework/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: framework/sample-config.php:166
+msgid "Preload Background Color"
+msgstr ""
+
+#: framework/sample-config.php:140
+msgid "Preload Off?"
+msgstr ""
+
+#: framework/sample-config.php:135
+msgid "Preload Settings"
+msgstr ""
+
+#: framework/sample-config.php:159
+msgid "Preload Text Color"
+msgstr ""
+
+#: framework/sample-config.php:175
+msgid "Preloader percentage"
+msgstr ""
+
+#: framework/sample-config.php:147
+msgid "Preloader Style"
+msgstr ""
+
+#: framework/sample-config.php:148
+msgid "Preloader style: preload logo or preload loading"
+msgstr ""
+
+#: framework/template-tags.php:284
+msgid "Prev"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:437
+msgid "Put a pictures on the half Row?"
+msgstr ""
+
+#: framework/meta-boxes.php:38
+msgid "Quote"
+msgstr ""
+
+#: framework/sample-config.php:223
+msgid "Recommended size: 143px & 32px"
+msgstr ""
+
+#: framework/sample-config.php:205
+msgid "Recommended size: 32px & 32px"
+msgstr ""
+
+#: framework/sample-config.php:254
+msgid "Recommended Size: 32x32"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:232
+msgctxt "Roboto+Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/sample-config.php:840
+msgid "RSS Url"
+msgstr ""
+
+#: header.php:103
+msgid "Search"
+msgstr ""
+
+#: header.php:101
+msgid "Search for:"
+msgstr ""
+
+#: search.php:25 search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:99
+msgid "Search&hellip;"
+msgstr ""
+
+#: functions.php:523
+msgid "Select Animate , Default: None"
+msgstr ""
+
+#: framework/sample-config.php:667
+msgid "Select Blog Style"
+msgstr ""
+
+#: functions.php:484
+msgid "Select columns position within row."
+msgstr ""
+
+#: functions.php:382
+msgid "Select Full width for row : yes or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:412 functions.php:450
+msgid "Select image from media library."
+msgstr ""
+
+#: functions.php:502
+msgid "Select Image position within row."
+msgstr ""
+
+#: framework/sample-config.php:286
+msgid "Select images option for Header Layout"
+msgstr ""
+
+#: framework/sample-config.php:645
+msgid "Select layout you want use for all your blog page."
+msgstr ""
+
+#: framework/sample-config.php:1006
+msgid "Select Theme Style"
+msgstr ""
+
+#: framework/sample-config.php:712
+msgid "Service Button Text"
+msgstr ""
+
+#: framework/sample-config.php:699
+msgid "Services Settings"
+msgstr ""
+
+#: functions.php:376
+msgid "Setup Full width For Row"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: framework/sample-config.php:798
+msgid "Skype Url"
+msgstr ""
+
+#: framework/sample-config.php:730
+msgid "Social Settings"
+msgstr ""
+
+#: search.php:74
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/sample-config.php:826
+msgid "soundcloud Url"
+msgstr ""
+
+#: framework/sample-config.php:1027
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-config.php:505
+msgid "Specify the heading 1 font properties."
+msgstr ""
+
+#: framework/sample-config.php:524
+msgid "Specify the heading 2 font properties."
+msgstr ""
+
+#: framework/sample-config.php:543
+msgid "Specify the heading 3 font properties."
+msgstr ""
+
+#: framework/sample-config.php:562
+msgid "Specify the heading 4 font properties."
+msgstr ""
+
+#: framework/sample-config.php:581
+msgid "Specify the heading 5 font properties."
+msgstr ""
+
+#: framework/sample-config.php:600
+msgid "Specify the heading 6 font properties."
+msgstr ""
+
+#: framework/sample-config.php:619
+msgid "Specify the Menu item font properties."
+msgstr ""
+
+#: framework/sample-config.php:875
+msgid "Sticky Footer On?"
+msgstr ""
+
+#: functions.php:549
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: framework/sample-config.php:1000
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-config.php:456
+msgid "Sub-Header Top Page"
+msgstr ""
+
+#: framework/sample-config.php:480
+msgid "SubHeader Background Color"
+msgstr ""
+
+#: framework/sample-config.php:461
+msgid "Subheader Layout"
+msgstr ""
+
+#: framework/sample-config.php:462
+msgid "Subheader layout"
+msgstr ""
+
+#: framework/sample-config.php:463
+msgid "Subheader layout : select Subheader layout"
+msgstr ""
+
+#: framework/sample-config.php:488
+msgid "SubHeader Text Color"
+msgstr ""
+
+#: single.php:111
+msgid "Tags:"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog 2"
+msgstr ""
+
+#. Name of the template
+msgid "Template Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Template FullWidth"
+msgstr ""
+
+#: framework/widget/testimonials-widget.php:88
+msgid "Testimonials"
+msgstr ""
+
+#: framework/widget/testimonials-widget.php:18
+msgid "Testimonials Carousel on Widget"
+msgstr ""
+
+#: framework/widget/recent-post.php:10
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: framework/sample-config.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/sample-config.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/sample-config.php:1017
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-config.php:1005
+msgid "Theme Style"
+msgstr ""
+
+#: framework/sample-config.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-config.php:88 framework/sample-config.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: framework/widget/contact-info.php:61 framework/widget/recent-post.php:73
+#: framework/widget/testimonials-widget.php:94
+msgid "Title:"
+msgstr ""
+
+#: framework/sample-config.php:369
+msgid "Topbar info text."
+msgstr ""
+
+#: framework/sample-config.php:362
+msgid "Topbar on header Off?"
+msgstr ""
+
+#: framework/sample-config.php:819
+msgid "tumblr Url"
+msgstr ""
+
+#: framework/sample-config.php:742
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/template-tags.php:311
+msgid "type to search&hellip;"
+msgstr ""
+
+#: framework/sample-config.php:498
+msgid "Typography"
+msgstr ""
+
+#: framework/meta-boxes.php:81 framework/meta-boxes.php:130
+msgid "Upload background image for top detail page."
+msgstr ""
+
+#: framework/sample-config.php:253
+msgid "Upload favicon image"
+msgstr ""
+
+#: framework/sample-config.php:263
+msgid "Upload logo image"
+msgstr ""
+
+#: framework/sample-config.php:273
+msgid "Upload logo scroll image"
+msgstr ""
+
+#: framework/sample-config.php:689
+msgid "Upload your background image."
+msgstr ""
+
+#: framework/sample-config.php:204
+msgid "Upload your icon Loading preload"
+msgstr ""
+
+#: framework/sample-config.php:222
+msgid "Upload your logo preload"
+msgstr ""
+
+#: framework/sample-config.php:287
+msgid "Use any header layout for all pages."
+msgstr ""
+
+#: framework/sample-config.php:690
+msgid "Using in index.php, archive.php, search.php"
+msgstr ""
+
+#: framework/meta-boxes.php:61
+msgid "Video"
+msgstr ""
+
+#: archive-service.php:74 taxonomy-category_service.php:55
+msgid "View Details"
+msgstr ""
+
+#: framework/sample-config.php:812
+msgid "vimeo Url"
+msgstr ""
+
+#: comments.php:54
+msgid "WebSite"
+msgstr ""
+
+#: functions.php:380 functions.php:392 functions.php:402 functions.php:440
+msgid "Yes"
+msgstr ""
+
+#: framework/sample-config.php:149
+msgid "You can choose one of two preload style, Default: Loading Style."
+msgstr ""
+
+#: framework/sample-config.php:965 framework/sample-config.php:989
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: framework/sample-config.php:344
+msgid "You want show: social or search on header?"
+msgstr ""
+
+#: framework/template-tags.php:336
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/sample-config.php:763
+msgid "Youtube Url"
+msgstr ""

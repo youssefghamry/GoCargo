@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+        <key name="gocargo_option">
+            <key name="info_list_text" />
+            <key name="archive_service_title" />
+            <key name="archive_service_read" />
+            <key name="footer_text" />
+        </key>
+    </admin-texts>
+</wpml-config>
