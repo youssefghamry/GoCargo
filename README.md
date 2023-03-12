@@ -14,9 +14,9 @@
 
 ## Some project's views on devices
 
+ <img src="https://raw.githubusercontent.com/youssefghamry/GoCargo/8c4f2c93dedfb9816e7341a62b509e51274eb372/img/1.png">
 
-(img/1.jfif)
-(img/1.gif)
+
 
 ##OUR THEME INCLUDE ALL FEATURES THAT YOU NEED
 
